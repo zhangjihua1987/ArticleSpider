@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ce262c3-afd1-4e88-8b39-1e187a570e99" name="Default" comment="" />
+    <list default="true" id="8ce262c3-afd1-4e88-8b39-1e187a570e99" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/tools/seleniums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/tools/zhihu_sel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/0104e7c14a36650ad69f34f21bb577491ca53eda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/031407902bdeff19a2af7d3163aefed119d82c52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/0e89c4879b2842f9c58098e98ad64d0a9d218103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/0f6b8225c1f7c3b8073f7353da222745c3159c0d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/117976068e2e847f1067d25ea3fa90a3b5a60f3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/14452eea6b79bce0219227f298ad827f2ba7112d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/1ee8b23b2be55de42dc12bc7e4b5d4a4385a1ff4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/23173d6ca86d727a81c2d7e88a6d0158f93860e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/25fd6361e58d68d4d0e0fe883f9e496afcab090b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/280c8276f25da11c38fa166860dc2754091de28f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/2ab273c96f72472a185ca0a54368da3282e9e44f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/2d4fd40c8eaec8319c1de2f154b3275aecd23f9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/30fcdf79d0b901a9dde107f5e6e10f11fd95d574.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/35011d6168be00e949624c665041dc724e3ad786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/36430ccefda2f0d333a3bbac206945b3528bf1aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/3b7e7bed23407111b13cf9f458c1f31bf494ba05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/428bcfd6bd490b0c39a551086995565641acf804.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/453ff80eaf4ff3575b57fc66d687ab1765d261e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/4891720869d8ccc14d8a9e255248459e0f3b0712.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/4a23101e18b9584644a1484a9f994cfdfe1aad85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/4a97456eb33e95985ef74e42fe3392c716d2940a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/4ae6a8841001d622d1fe4998df8a36b5e1b8ad7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/4c6abd763d27eeeb4c7e7665f213388ec74df623.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/50109a920f6e479b8f55253ea99d47436baa4c42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/506f77aba037cb2bd78064b80470760038a6d491.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/521831f2ac1c9590fa6ac824e27690afeb69956d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/5630c3d4f4f3f685aa06d550f00a4cdef5d9a492.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/57fc0c444fd0ac52984787357e439ebad08d7b14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/59a85d2a0fc8546d12c3afa0f0aae247f4861301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/5a37eb6aa1f47735bfe2f1e45b3c35ead1752c50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/5e826dbb92c991b58a09612202e0b546879e2891.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/5ea5d5577cf5ecf062f451ebfecfee5acbc4bab8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/652b3c8d1651a6157260fbbbe71ec8e2cded6fd4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/6d8769da18e5fbec28cb5a2e5550323fe12e463a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/6ee5b64dfb633d1d06e3478d949e5f0b666c3d17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/70c7b887c37d9154dc2b5636ed919464c716d375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/72fd692cdd9ccd44d3da74f6eda1119635b48c27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/75c46be89b190cbaddeecac80a39d022262d67bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/7c651e0fce13acb304e7b99f8851cc540be4decd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/7fedf7798d9008113492951d25f37bb7d8c67e99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/80b4614d2c41c6d4f76f79bebe8e4d4beca33f43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8163b569212cff9b9756ab2724d7a551f380e188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/83781eed2f7e726b14e5d4ca2e1a602b8b53d469.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/837869fde271e0571cc2e87f3319ba0169e830a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8441f8e55bb24a2a5052ec2c163397dfd0b0cdfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8517b777adc3b416eef675b4ceffc7467062bf12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8cd9b25acfe438d20acd37accc39f6be8b8924dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8d41e17ba24bd494b959911d8123d0072c41e2a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8f56708c8277db3452adbaf82ed7ad944f9b4ada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/98a52c8c3ed8309e75c9e35b93c021e132ab36b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/9a51fcef743ae4aca8b8c39bcc18e02a01782e9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/9db6cf3e596461e143833b81ce604c0fd5b87855.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/a4443dc00e7496c40f80d80cf20d045049cf3c98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/a63042e23025aa5a9fbe75d0a79efd00a9a8582f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/a6bd0b86424540078e7288d939384886be448281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/aab96c7405ff9c51c5ed53c3c56c2a4d05b37236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/af97550999b0e4d2774bb8793f1174ce118b4be3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/b6904127059aff354b12d2cb953eb7733f8d9064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/bbd3c66a3badc127bce3c714ce00a0e73265cc91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/bfa5a7db3c91976d399fecda195ea01b82163b74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c065d43e6c84afd025fb0d411cb2511523d8ce50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c073c3ed8ce27fd16c516364c92f7c094410b3a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c387e396af4df71c22f480eba98289a1e8a86b87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c45857466a0e2dd99c4e857f56ca13903c5eac72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c766feed221138f7946130756cddfc7e86e388b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c873cef021481b88547bef0339ded18597336ed5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c8797b2eefd269f7cad89f821eb64889f001b563.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c8b802de5bdc21490e5a2a7e1882a02e3bf9b939.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c99585e916a2233fec8fcbbf0dc4907e60e02254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/cb1523a339195163fc0adccae847255ce28fba47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/cb5b275f82913089032b45dbe76289f59ada0f4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/cd53a2302bc0852583e1e611cf280b011948f392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/d102994dcc342e0686843d89a7518432502d5ff3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/d1b17b98748a74826464a08e6d30a4ee1b15b171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/d21139b01c705ad942c01fc98ce02e6dc9a5a1c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/d431f39ea4612ff1bc4266119c25fee4a1433508.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/d6d45a1af6d7fde7b14a2810c9085cf82cdc708a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/e409b311b4a4a04e558409d9b741ef77b0ddd466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/e47f904ab6e911e10a86b4fb2039a9331071634d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/e4ef10899dd499cd91f9102bff717ea3d2311bfc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/eadb28355fab57e9672e5c965147ef4caca04ac4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/eb460a6c40dc597b739b2313a4c5c7ca08296694.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/f49c8437c74dd90a906b7a9579e6520f3044c962.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,9 +102,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ArticleSpider$main.coverage" NAME="main Coverage Results" MODIFIED="1527766043495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$zhihu_sel.coverage" NAME="zhihu_sel Coverage Results" MODIFIED="1527850857952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/tools" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$main.coverage" NAME="main Coverage Results" MODIFIED="1527825595905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ArticleSpider$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1527759978872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
     <SUITE FILE_PATH="coverage/ArticleSpider$settings.coverage" NAME="settings Coverage Results" MODIFIED="1527600078216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$seleniums.coverage" NAME="seleniums Coverage Results" MODIFIED="1527838265322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/tools" />
     <SUITE FILE_PATH="coverage/ArticleSpider$common.coverage" NAME="common Coverage Results" MODIFIED="1527646316480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/utils" />
   </component>
   <component name="FileEditorManager">
@@ -20,8 +114,44 @@
       <file leaf-file-name="jobbole.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+            <state relative-caret-position="504">
+              <caret line="34" column="88" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seleniums.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/seleniums.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="76" selection-start-line="11" selection-end-line="14" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhihu_sel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/zhihu_sel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhihu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -32,8 +162,11 @@
       <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArticleSpider/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="138">
+              <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+              <folding>
+                <element signature="e#153#162#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,7 +175,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -53,8 +186,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArticleSpider/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
@@ -62,11 +195,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArticleSpider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="136" column="44" lean-forward="true" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+            <state relative-caret-position="331">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
               <folding>
                 <element signature="e#194#205#0" expanded="true" />
               </folding>
@@ -92,15 +225,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/utils/common.py" />
-        <option value="$PROJECT_DIR$/ArticleSpider/items.py" />
-        <option value="$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/settings.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/items.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/pipelines.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/seleniums.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/zhihu.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/zhihu_sel.py" />
       </list>
     </option>
   </component>
@@ -124,6 +263,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,13 +278,24 @@
             </path>
             <path>
               <item name="ArticleSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArticleSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="ArticleSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArticleSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArticleSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="ArticleSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArticleSpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.zhihu_sel">
     <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ArticleSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,7 +375,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="seleniums" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ArticleSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,12 +383,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArticleSpider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArticleSpider/tools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArticleSpider/settings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArticleSpider/tools/seleniums.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="zhihu_sel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ArticleSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArticleSpider/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArticleSpider/tools/zhihu_sel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,16 +415,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.settings" />
       <item itemvalue="Python.common" />
       <item itemvalue="Python.pipelines" />
+      <item itemvalue="Python.seleniums" />
+      <item itemvalue="Python.zhihu_sel" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zhihu_sel" />
+        <item itemvalue="Python.seleniums" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.pipelines" />
         <item itemvalue="Python.common" />
-        <item itemvalue="Python.settings" />
       </list>
     </recent_temporary>
   </component>
@@ -277,17 +449,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985755" visible="true" weight="0.25670242" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985755" visible="true" weight="0.2600536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5014245" side_tool="true" weight="0.25670242" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39800286" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -318,14 +490,76 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="15" />
+          <line>107</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#153#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/utils/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="136" column="44" lean-forward="true" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+          <folding>
+            <element signature="e#194#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -525,6 +759,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Envs/spider/Lib/site-packages/scrapy/loader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArticleSpider/utils/common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -532,49 +783,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArticleSpider/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="138">
+          <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+          <folding>
+            <element signature="e#153#162#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/settings.py">
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        <state relative-caret-position="331">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
           <folding>
-            <element signature="e#24#33#0" expanded="true" />
+            <element signature="e#194#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/seleniums.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="136" column="44" lean-forward="true" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+        <state relative-caret-position="252">
+          <caret line="14" column="76" selection-start-line="11" selection-end-line="14" selection-end-column="76" />
           <folding>
-            <element signature="e#194#205#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/spider/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/spider/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1658">
+          <caret line="339" column="8" selection-start-line="339" selection-start-column="8" selection-end-line="339" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="34" column="88" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/http/cookiejar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="1840" column="6" selection-start-line="1840" selection-start-column="6" selection-end-line="1840" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/zhihu_sel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>

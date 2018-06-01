@@ -66,7 +66,6 @@ class JasonExporterPipeline(object):
         return item
 
 
-
 class ArticleImagesPipeline(ImagesPipeline):
     """
     处理图片的pipeline
@@ -75,8 +74,9 @@ class ArticleImagesPipeline(ImagesPipeline):
     """
 
     def item_completed(self, results, item, info):
-        for status, value in results:
-            item['front_image_path'] = value['path']
+        if 'front_image_url' in item:
+            for status, value in results:
+                item['front_image_path'] = value['path']
         return item
 
 
